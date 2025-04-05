@@ -1,9 +1,4 @@
-# SEProject
-
-## Front-end 
-
-## Back-end
-### how to initialize database
+### How to initialize database
 #### option 1: sử dụng docker
 - tải docker-desktop về bật lên (khuyên config processor với memory trước không thì nặng máy)
 - tạo file .env cùng folder với compose.yaml
